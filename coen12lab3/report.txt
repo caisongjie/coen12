@@ -1,0 +1,25 @@
+unique
+------
+                              hash
+GreenEggsAndHam.txt           0m0.006s  
+Macbeth.txt                   0m0.008s  
+Genesis.txt                   0m0.010s  
+                   
+
+
+bincount
+--------
+                             hash
+GreenEggsAndHam.txt          0m0.007s   
+Macbeth.txt                  0m0.010s   
+Genesis.txt                  0m0.011s   
+                  
+
+
+parity
+------
+                              hash
+GreenEggsAndHam.txt          0m0.006s   
+Macbeth.txt                  0m0.010s   
+Genesis.txt                  0m0.013s   
+   
